@@ -8,6 +8,7 @@ return {
   { import = "astrocommunity.bars-and-lines.lualine-nvim" },
   { import = "astrocommunity.pack.rust" },
   { import = "astrocommunity.pack.java" },
+  { import = "astrocommunity.pack.go" },
   -- { import = "astrocommunity.colorscheme.catppuccin" },
   -- { import = "astrocommunity.completion.copilot-lua-cmp" },
 }
