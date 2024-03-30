@@ -5,6 +5,7 @@ return {
   -- available plugins can be found at https://github.com/AstroNvim/astrocommunity
   { import = "astrocommunity.colorscheme.nordic-nvim" },
   { import = "astrocommunity.colorscheme.gruvbox-nvim" },
+  { import = "astrocommunity.colorscheme.github-nvim-theme"},
   { import = "astrocommunity.bars-and-lines.lualine-nvim" },
   { import = "astrocommunity.pack.rust" },
   { import = "astrocommunity.pack.java" },
